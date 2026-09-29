@@ -14,6 +14,6 @@ Freelance developer (6+ years) helping businesses with **web apps, mobile apps, 
 - [dataops-pipeline](https://github.com/Moeez-03/dataops-pipeline) — pipeline builder UI
 
 ## Work with me
-📅 [Book a call](https://cal.com/abdulmoeeznadeem)
+📅 [Book a call](https://cal.com/abdul-moeez)
 💼 [LinkedIn](https://www.linkedin.com/in/abdul-moeez-nadeem-98a468205/)
 🌐 [Amethyst Developers](https://amethystdevelopers.com)
